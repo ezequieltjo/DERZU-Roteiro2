@@ -1,6 +1,8 @@
 #ifndef PEDIDO_H
 #define PEDIDO_H
 #include <string>
+#include <sstream>
+#include <iostream>
 
 class Pedido
 {
@@ -16,7 +18,7 @@ class Pedido
         std::string getDescricao();
         int getQuantidade ();
         float getPreco();
-
+        std::string toString();
 };
 
 #endif // PEDIDO_H

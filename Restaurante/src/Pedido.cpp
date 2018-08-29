@@ -27,3 +27,16 @@ int Pedido::getQuantidade (){
 float Pedido::getPreco(){
     return preco;
 }
+
+std::string Pedido::toString(){
+
+    std::stringstream n;
+    std::stringstream p;
+    std::stringstream q;
+
+    n<<numero;
+    q << quantidade;
+    p << preco;
+
+     return n.str() + " - " + descricao + " - " + q.str() = " - " + p.str();
+}

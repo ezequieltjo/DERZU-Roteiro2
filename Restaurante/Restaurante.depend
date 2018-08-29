@@ -18,25 +18,28 @@
 
 1534785961 c:\users\aluno.ci-hp\desktop\restaurante\include\restaurantecaseiro.h
 
-1534949368 source:c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\src\mesaderestaurante.cpp
+1535381908 source:c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\src\mesaderestaurante.cpp
 	"MesaDeRestaurante.h"
 
-1534949368 c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\include\mesaderestaurante.h
+1535381908 c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\include\mesaderestaurante.h
 	"Pedido.h"
 
-1534949368 c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\include\pedido.h
+1535564786 c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\include\pedido.h
 	<string>
+	<sstream>
+	<iostream>
 
-1534949368 source:c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\src\pedido.cpp
+1535566498 source:c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\src\pedido.cpp
 	"Pedido.h"
 
-1534949368 source:c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\main.cpp
+1535567283 source:c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\main.cpp
 	<iostream>
 	"MesaDeRestaurante.h"
-
-1534949368 source:c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\src\restaurantecaseiro.cpp
 	"RestauranteCaseiro.h"
 
-1534949368 c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\include\restaurantecaseiro.h
+1535381908 source:c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1535381908 c:\users\aluno.ci-hp\desktop\derzu-roteiro2-master\restaurante\include\restaurantecaseiro.h
 	"MesaDeRestaurante.h"
 

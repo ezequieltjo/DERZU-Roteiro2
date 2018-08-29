@@ -14,4 +14,15 @@ Endereco::Endereco(std::string rua, int numero, std::string bairro, std::string 
     this->cep = cep;
 }
 
+std::string Endereco::toString(){
+    std::stringstream r, n, b, c, e, ce;
 
+    r << rua;
+    n << numero;
+    b << bairro;
+    c << cidade;
+    e << estado;
+    ce << cep;
+
+    return r.str() + " - " + n.str() + " - " + b.str() + " - " + c.str() + " - " + e.str() + " - " + ce;
+}

@@ -18,6 +18,5 @@ int main()
     p = Pedido(3, "Cuzcuz", 4, 5.00);
     rest.adicionaAoPedido(2, p);
 
-
     return 0;
 }

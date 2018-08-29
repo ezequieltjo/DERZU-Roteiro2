@@ -1,6 +1,7 @@
 #ifndef ENDERECO_H
 #define ENDERECO_H
 #include <string>
+#include <sstream>
 
 class Endereco
 {
