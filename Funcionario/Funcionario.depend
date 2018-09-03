@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\aluno.ci-hp\desktop\funcionario\main.cpp
+	<iostream>
+
+1536010241 source:c:\users\aluno.ci-hp\desktop\funcionario\src\funcionario.cpp
+	"Funcionario.h"
+
+1536009961 c:\users\aluno.ci-hp\desktop\funcionario\include\funcionario.h
+	<string>
+
