@@ -13,7 +13,7 @@ class MesaDeRestaurante
         void adicionaAoPedido(Pedido p);
         void zeraPedidos();
         float calculaTotal();
-
+        std::string toString();
 
 };
 

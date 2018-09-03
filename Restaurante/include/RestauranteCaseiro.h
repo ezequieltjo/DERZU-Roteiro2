@@ -12,6 +12,7 @@ class RestauranteCaseiro
         RestauranteCaseiro();
         void adicionaAoPedido(int m, Pedido p);
         float calculaTotalRestaurante();
+        MesaDeRestaurante buscaMesaID (int i);
 
 };
 

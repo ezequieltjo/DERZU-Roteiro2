@@ -16,7 +16,8 @@ int main()
     rest.adicionaAoPedido(1, p);
 
     p = Pedido(3, "Cuzcuz", 4, 5.00);
-    rest.adicionaAoPedido(2, p);
+    rest.adicionaAoPedido(1, p);
 
+    cout << rest.buscaMesaID(1).toString() << endl; //a funçao toString irá printar os pedidos na mesa 1
     return 0;
 }

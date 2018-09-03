@@ -17,3 +17,8 @@ float RestauranteCaseiro::calculaTotalRestaurante(){
     }
     return total;
 }
+
+MesaDeRestaurante RestauranteCaseiro::buscaMesaID (int i){
+
+    return mesas[i];
+}

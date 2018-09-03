@@ -35,8 +35,8 @@ std::string Pedido::toString(){
     std::stringstream q;
 
     n<<numero;
-    q << quantidade;
-    p << preco;
+    q<<quantidade;
+    p<<preco;
 
-     return n.str() + " - " + descricao + " - " + q.str() = " - " + p.str();
+     return n.str() + " - " + descricao + " - " + q.str() + " - " + p.str();
 }

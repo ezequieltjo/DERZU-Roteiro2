@@ -22,3 +22,11 @@ void MesaDeRestaurante::zeraPedidos(){
 
     iAtual=0;
 }
+
+std::string MesaDeRestaurante::toString(){
+    std::string retorno="";
+    for (int i=0; i<iAtual; i++){
+        retorno += "\n" + pedidos[i].toString();
+    }
+    return retorno;
+}
