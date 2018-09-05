@@ -8,3 +8,20 @@
 1536009961 c:\users\aluno.ci-hp\desktop\funcionario\include\funcionario.h
 	<string>
 
+1536113783 source:c:\users\ezequ\desktop\derzu-roteiro2-master\funcionario\main.cpp
+	<iostream>
+	"Consultor.h"
+
+1536111086 source:c:\users\ezequ\desktop\derzu-roteiro2-master\funcionario\src\funcionario.cpp
+	"Funcionario.h"
+
+1536112882 c:\users\ezequ\desktop\derzu-roteiro2-master\funcionario\include\funcionario.h
+	<string>
+
+1536113838 source:c:\users\ezequ\desktop\derzu-roteiro2-master\funcionario\src\consultor.cpp
+	"Consultor.h"
+
+1536113619 c:\users\ezequ\desktop\derzu-roteiro2-master\funcionario\include\consultor.h
+	"Funcionario.h"
+	<string>
+

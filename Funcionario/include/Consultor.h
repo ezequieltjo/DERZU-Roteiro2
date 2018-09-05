@@ -1,16 +1,20 @@
 #ifndef CONSULTOR_H
 #define CONSULTOR_H
+#include "Funcionario.h"
+#include <string>
 
-
-class Consultor
+class Consultor: public Funcionario
 {
+    private:
+        float percentual;
+
     public:
         Consultor();
-        virtual ~Consultor();
+        Consultor(std::string matricula, std::string nome, float salario, float percentual);
+        float getSalario();
+        float getSalario(float percentual);
 
-    protected:
 
-    private:
 };
 
 #endif // CONSULTOR_H

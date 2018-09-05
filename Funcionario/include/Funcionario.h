@@ -4,9 +4,9 @@
 
 class Funcionario
 {
-    private:
-        std::string nome, matricula;
+    protected:
         float salario;
+        std::string nome, matricula;
 
     public:
         Funcionario();
