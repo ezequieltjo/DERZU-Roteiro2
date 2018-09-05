@@ -8,9 +8,6 @@ class Circulo: public FiguraGeometrica
         Circulo();
         Circulo(float raio);
 
-    protected:
-
-    private:
         float raio;
         float calcularArea(float raio);
 };

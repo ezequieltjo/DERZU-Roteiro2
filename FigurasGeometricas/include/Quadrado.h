@@ -8,9 +8,6 @@ class Quadrado: public FiguraGeometrica
         Quadrado();
         Quadrado(float lado);
 
-    protected:
-
-    private:
         float lado;
         float calcularArea(float lado);
 };

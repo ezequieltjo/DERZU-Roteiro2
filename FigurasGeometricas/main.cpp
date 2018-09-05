@@ -7,15 +7,13 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    Triangulo tri1 = Triangulo();
+    Quadrado qua1 = Quadrado();
+    Circulo cir1 = Circulo();
 
-    Triangulo tri1 = Triangulo(10, 10);
-    Quadrado qua1 = Quadrado(5);
-    Circulo cir1 = Circulo(10);
-
-    cout << tri1.calcularArea() << endl;
-    cout << qua1.calcularArea() << endl;
-    cout << cir1.calcularArea() << endl;
+    cout << tri1.calcularArea(10,10) << endl;
+    cout << qua1.calcularArea(5) << endl;
+    cout << cir1.calcularArea(5) << endl;
 
     return 0;
 }
