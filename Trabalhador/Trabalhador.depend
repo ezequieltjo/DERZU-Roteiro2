@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1536192499 source:c:\users\ezequ\desktop\derzu-roteiro2-master\trabalhador\main.cpp
+	<iostream>
+	"TrabalhadorPorHora.h"
+	"TrabalhadorAssalariado.h"
+
+1536191975 source:c:\users\ezequ\desktop\derzu-roteiro2-master\trabalhador\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1536191890 c:\users\ezequ\desktop\derzu-roteiro2-master\trabalhador\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+
+1536191838 c:\users\ezequ\desktop\derzu-roteiro2-master\trabalhador\include\trabalhador.h
+	<string>
+
+1536187980 source:c:\users\ezequ\desktop\derzu-roteiro2-master\trabalhador\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1536192755 source:c:\users\ezequ\desktop\derzu-roteiro2-master\trabalhador\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1536192458 c:\users\ezequ\desktop\derzu-roteiro2-master\trabalhador\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
